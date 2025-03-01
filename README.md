@@ -132,13 +132,13 @@ The scope of the SMS includes:
 ## Installation
 
 ```bash
-#1. Clone the repository
+# Clone the repository
 git clone https://github.com/username/Student-Management-System.git
 
-#2. Navigate to the project directory
+# Navigate to the project directory
 cd Student-Management-System
 
-#3. Install dependencies
+# Install dependencies
 npm install
 ```
 
@@ -157,15 +157,15 @@ Contributions are welcome! Please follow these step:
 1. Fork the repository.
 2. Create a new branch:
    ```bash
-     (git checkout -b feature/YourFeature)
+     git checkout -b feature/YourFeature
    ```
 3. Commit your changes
    ```bash
-    (git commit -m 'Add some feature')
+    git commit -m 'Add some feature'
    ```
 4. Push to the branch
    ```bash
-   (git push origin feature/YourFeature)
+   git push origin feature/YourFeature
    ```
 5. Open a pull request.
 
