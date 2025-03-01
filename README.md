@@ -170,3 +170,7 @@ Contributions are welcome! Please follow these step:
 ## License
 
 Please refer to the LICENSE file for details.
+
+## Documentation
+Detailed documentation can be found in the `/docs` directory:
+
