@@ -173,4 +173,9 @@ Please refer to the LICENSE file for details.
 
 ## Documentation
 Detailed documentation can be found in the `/docs` directory:
+- [API References](/docs/API/endpoint.md)
+- [Architecture](/docs/architecture.md) 
+- [Change Log](/docs/changelog.md)
+- [User Guide](/docs/user_guide.md)
+
 
