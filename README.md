@@ -72,7 +72,6 @@ The scope of the SMS includes:
 - User role management with access control.
 - Centralized student information database.
 - Course and enrollment management tools.
-- Communication and notification systems.
 - Automation of administrative processes.
 - Accessibility from various devices.
 - Data security and compliance measures.
