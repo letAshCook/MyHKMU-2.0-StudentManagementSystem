@@ -2,7 +2,7 @@
 
 ## Software Project Management: Year 3 CompSci Group Project
 
-### Student Management System (SMS)
+### MyHKMU 2.0 - Student Management System (SMS)
 
 #### Overview
 
@@ -53,7 +53,8 @@ Additionally, the report will include:
 
 ## Project Purpose
 
-The Student Management System (SMS) is designed to streamline and enhance the management of student information and records for university administration. It aims to improve efficiency in handling admissions, enrollment, academic records, and communication with students. Students will have access to their grades and course information through an integrated platform, ultimately supporting better decision-making and fostering an improved educational environment.
+The Student Management System (SMS) is designed to streamline and enhance the management of student information and records for the Hong Kong Metropoliatan
+university administration. It aims to improve efficiency in handling admissions, enrollment, academic records, and communication with students. Students will have access to their grades and course information through an integrated platform, ultimately supporting better decision-making and fostering an improved educational environment.
 
 ## Project Objectives
 
