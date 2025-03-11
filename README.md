@@ -6,9 +6,11 @@
 
 #### Overview
 
-The Student Management System (SMS) is a software management project hosted by Hong Kong Metropolitan University, specifically for Bachelor of Science in Computer Science and Engineering majors. This project aims to facilitate collaboration and communication within a student group while implementing software project management methodologies. The goal is to undertake and complete the project within a defined timeline, allowing the team to practice essential project management skills.
+The **MyHKMU 2.0 - Student Management System (SMS)** is a collaborative software management project hosted by Hong Kong Metropolitan University, specifically designed for Bachelor of Science in Computer Science and Engineering majors. This project aims to enhance collaboration, communication, and learning within our student group while applying software project management methodologies.
 
-The team will focus on the following key areas:
+The primary goal is to successfully complete the project within a defined timeline, allowing the team to practice essential project management skills. Throughout this journey, we will encounter real-world challenges, fostering a deeper understanding of software development and teamwork.
+
+#### Key Focus Areas
 
 - **Project Management**: Apply foundational project management principles.
 - **Defining Key Management Stages**: Establish clear stages for project progression.
@@ -16,6 +18,7 @@ The team will focus on the following key areas:
 - **Identifying Stakeholders**: Recognize and engage relevant stakeholders.
 - **Documentation, Testing, and Deployment**: Document processes, conduct testing, and explore deployment strategies.
 - **Teamwork and Programming Etiquette**: Promote best practices in teamwork and coding standards.
+- **Utilization of AI Tools**: Leverage Poe, an AI chatbot, to enhance communication, brainstorming, and problem-solving.
 
 > **Note**: A fully working prototype of the product is not mandatory; the emphasis is on learning and practicing software project management.
 
@@ -36,7 +39,8 @@ Additionally, the report will include:
 - References and Work Distribution to Team Members
 - Conclusion and Appendix
 
-**Please note that everything below will be referencing the project on-hand: Student Management System.**
+**Please note that everything below will reference the project on-hand: Student Management System.**
+
 
 ## Table of Contents
 
@@ -44,7 +48,7 @@ Additionally, the report will include:
 - [Project Objectives](#project-objectives)
 - [Intended End-Users](#intended-end-users)
 - [Project Scope](#project-scope)
-- [Essential Features](#essential-features)
+- [Essential Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
