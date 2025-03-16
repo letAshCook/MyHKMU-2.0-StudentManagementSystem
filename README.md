@@ -41,7 +41,6 @@ Additionally, the report will include:
 
 **Please note that everything below will reference the project on-hand: Student Management System.**
 
-
 ## Table of Contents
 
 - [Project Purpose](#project-purpose)
@@ -148,10 +147,10 @@ npm install
 ## Usage
 
 ```bash
-npm start
+npm run serve
 ```
 
-You can then access the application at http://localhost:3000.
+You can then access the application at http://localhost:8080.
 
 ## Contributing
 
@@ -177,10 +176,10 @@ Contributions are welcome! Please follow these step:
 Please refer to the LICENSE file for details.
 
 ## Documentation
+
 Detailed documentation can be found in the `/docs` directory:
+
 - [API References](/docs/API/endpoint.md)
-- [Architecture](/docs/architecture.md) 
+- [Architecture](/docs/architecture.md)
 - [Change Log](/docs/changelog.md)
 - [User Guide](/docs/user_guide.md)
-
-
