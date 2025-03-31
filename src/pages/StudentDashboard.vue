@@ -1,11 +1,10 @@
-// filepath:
-/Users/ashwin/Documents/GitHub/MyHKMU-2.0-StudentManagementSystem/src/pages/StudentDashboard.vue
+
 <template>
   <div class="student-dashboard">
     <!-- Header -->
     <header class="dashboard-header">
       <div class="header-left">
-        <img src="../../assets/images/dashboard.png" alt="HKMU Logo" class="dashboard-logo" />
+        <img src="../../assets/images/HKMU.jpg" alt="HKMU Logo" class="HKMU-logo" />
         <h1>{{ translations.welcome }}</h1>
       </div>
       <div class="header-right">

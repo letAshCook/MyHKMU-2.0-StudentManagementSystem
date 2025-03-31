@@ -26,8 +26,6 @@
 </template>
 
 <script>
-import axios from "axios";
-
 export default {
   name: "Login",
   data() {
@@ -35,26 +33,36 @@ export default {
       username: "",
       password: "",
       message: "",
+      // Mock user credentials
+      mockUser: {
+        username: "student@example.com",
+        password: "password123",
+        role: "student", // Role for the mock user
+      },
     };
   },
   methods: {
-    async login() {
-      try {
-        const response = await axios.post(
-          "http://localhost:3000/api/auth/login",
-          {
-            username: this.username,
-            password: this.password,
-          }
-        );
-        this.message = response.data.message;
-      } catch (error) {
-        this.message = error.response.data.message;
+    login() {
+      // Validate the entered credentials
+      if (
+        this.username === this.mockUser.username &&
+        this.password === this.mockUser.password
+      ) {
+        // Store mock authentication token and role in localStorage
+        localStorage.setItem("access_token", "mock_token");
+        localStorage.setItem("user_role", this.mockUser.role);
+
+        // Redirect to the StudentDashboard
+        this.$router.push("/student-dashboard");
+      } else {
+        // Show an error message
+        this.message = "Invalid username or password.";
       }
     },
   },
 };
 </script>
+
 
 <style scoped>
 .login {
