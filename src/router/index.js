@@ -9,6 +9,7 @@ const routes = [
     { path: '/admin-dashboard', component: AdminDashboard, meta: { requiresAuth: true, role: 'admin' } },
     { path: '/teacher-dashboard', component: TeacherDashboard, meta: { requiresAuth: true, role: 'teacher' } },
     { path: '/student-dashboard', component: StudentDashboard, meta: { requiresAuth: true, role: 'student' } },
+    { path: '/student-profile', component: StudentProfile}, 
 ];
 
 const router = createRouter({
