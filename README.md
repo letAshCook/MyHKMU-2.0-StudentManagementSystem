@@ -34,7 +34,7 @@ Additionally, the report will include:
 
 - Introductions
 - Case Study (Stakeholder stories, challenges)
-- Software Project Management Methodologies (e.g., Agile approach)
+- Software Project Management Methodologies (e.g., not Agile approach but waterfall approach)
 - Challenges Encountered and Implemented Solutions
 - References and Work Distribution to Team Members
 - Conclusion and Appendix
